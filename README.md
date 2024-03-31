@@ -37,7 +37,7 @@ Mastiff: $99 per month with priority listing and unlimited matches and messages.
 Encourages visitors to download the app and find companionship for their dogs.
 Provides download buttons for both Apple and Android platforms.
 
-8.Footer:
+8. Footer:
 Displays social media icons for Twitter, Facebook, and Instagram.
 Provides an email contact link.
 Includes copyright information and credits the website's creator, Santrapti.
