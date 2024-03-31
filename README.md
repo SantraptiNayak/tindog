@@ -14,7 +14,7 @@ Highlights the slogan "Meet new and interesting dogs nearby."
 Provides buttons for downloading the app on both Apple and Android platforms.
 Showcases an image of an iPhone mockup displaying the TinDog interface.
 
-3.Features Section:
+3. Features Section:
 Presents three key features of TinDog:
 Easy to use: Simplified platform accessible for dogs.
 Elite Clientele: Assures a range of high-quality dog profiles.
@@ -27,7 +27,7 @@ Quotes from satisfied users expressing positive experiences with TinDog.
 5. Press Section:
 Showcases logos of popular tech and business media outlets, indicating TinDog's media coverage and recognition.
 
-6.Pricing Section:
+6. Pricing Section:
 Details subscription plans tailored for different dog sizes or breeds:
 Chihuahua: Free plan with limited matches and messages.
 Labrador: $49 per month for unlimited matches and messages.
