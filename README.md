@@ -2,7 +2,7 @@
 TinDog is a playful and user-friendly website designed for dog lovers to connect their dogs with potential mates or playmates in their vicinity. Mimicking the format of popular dating apps for humans, TinDog offers a platform for dogs to find companionship, friendship, or even love.
 
 
-#Key Features:
+# Key Features:
 
 1. Navigation Bar:
 Provides links to different sections of the website.
@@ -42,7 +42,7 @@ Displays social media icons for Twitter, Facebook, and Instagram.
 Provides an email contact link.
 Includes copyright information and credits the website's creator, Santrapti.
 
-#Design Elements:
+# Design Elements:
 1. Typography: Utilizes Google Fonts, including Montserrat, Ubuntu, and Poppins, for a modern and readable typeface.
 2. Color Scheme: The color palette includes dark tones with contrasting light elements, offering a sleek and contemporary look.
 3. Icons: Incorporates Font Awesome icons to enhance visual appeal and user experience.
