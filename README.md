@@ -49,6 +49,18 @@ Color Scheme: The color palette includes dark tones with contrasting light eleme
 Icons: Incorporates Font Awesome icons to enhance visual appeal and user experience.
 Responsive Design: Utilizes Bootstrap framework to ensure the website is mobile-friendly and adapts to various screen sizes.
 
-link: 
+link: https://santraptinayak.github.io/tindog/
 
 snapshots: 
+
+
+![1](https://github.com/SantraptiNayak/tindog/assets/107788748/b1fda51b-d6f7-4675-8e4b-6958b7f3d044)
+
+
+![2](https://github.com/SantraptiNayak/tindog/assets/107788748/fa8f3d89-a57c-4620-8b8f-4f26f7e14c05)
+
+
+![3](https://github.com/SantraptiNayak/tindog/assets/107788748/213e6999-780c-43fe-a06e-5968c73ac20a)
+
+
+![4](https://github.com/SantraptiNayak/tindog/assets/107788748/5eac7d69-35c0-49e5-ac33-58d5fa909f9a)
